@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Tools/elasticsearchjarFiles/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/elasticsearchjarFiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/elasticsearchjarFiles/fluent-hc-4.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/elasticsearchjarFiles/httpclient-4.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/elasticsearchjarFiles/httpclient-cache-4.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/elasticsearchjarFiles/httpclient-osgi-4.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/elasticsearchjarFiles/httpclient-win-4.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/elasticsearchjarFiles/httpcore-4.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/elasticsearchjarFiles/httpmime-4.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/elasticsearchjarFiles/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/elasticsearchjarFiles/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/jackson-core-2.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/jackson-databind-2.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/jopt-simple-5.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/kafka_2.12-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/kafka-clients-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/lz4-java-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/scala-library-2.12.4.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/scala-logging_2.12-3.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/scala-reflect-2.12.4.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/snappy-java-1.1.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/zkclient-0.10.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/kafka Jar/zookeeper-3.4.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

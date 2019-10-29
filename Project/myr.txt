@@ -1,0 +1,5 @@
+16-10-2019 12:54:03|payment|NODE_1|payment.cpp|ProcessPayment()|501|Th00001|The Applicatiion Loaded
+17-10-2019 12:54:04|payment|NODE_2|payment.cpp|ProcessPayment()|502|Th00002|The Applicatiion Started
+18-10-2019 12:54:05|payment|NODE_3|payment.cpp|ProcessPayment()|503|Th00003|The Applicatiion is Running
+19-10-2019 12:54:06|payment|NODE_4|payment.cpp|ProcessPayment()|504|Th00004|The Applicatiion Completed
+20-10-2019 12:54:07|payment|NODE_5|payment.cpp|ProcessPayment()|505|Th00005|The Applicatiion Closed
