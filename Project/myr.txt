@@ -3,3 +3,5 @@
 18-10-2019 12:54:05|payment|NODE_3|payment.cpp|ProcessPayment()|503|Th00003|The Applicatiion is Running
 19-10-2019 12:54:06|payment|NODE_4|payment.cpp|ProcessPayment()|504|Th00004|The Applicatiion Completed
 20-10-2019 12:54:07|payment|NODE_5|payment.cpp|ProcessPayment()|505|Th00005|The Applicatiion Closed
+
+20-10-2019 11:54:07|payment|NODE_6|payment.cpp|ProcessPayment()|508|Th00005|The Applicatiion Closed
